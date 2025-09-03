@@ -1,0 +1,31 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I",
+      "./inc",
+      "-o",
+      "./obj/main.o",
+      "./src/main.c"
+    ],
+    "directory": "/home/hainguyen/Linux_course",
+    "file": "/home/hainguyen/Linux_course/src/main.c",
+    "output": "/home/hainguyen/Linux_course/obj/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-fPIC",
+      "-I",
+      "./inc",
+      "-o",
+      "./obj/strutils.o",
+      "./src/strutils.c"
+    ],
+    "directory": "/home/hainguyen/Linux_course",
+    "file": "/home/hainguyen/Linux_course/src/strutils.c",
+    "output": "/home/hainguyen/Linux_course/obj/strutils.o"
+  }
+]
