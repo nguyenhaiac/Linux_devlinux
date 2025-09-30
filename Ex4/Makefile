@@ -11,4 +11,10 @@ prob2:
 
 prob3:
 	gcc prob3.c -o prob3 -Wall -g
+
+prob4:
+	gcc prob4.c -o prob4 -Wall -g
+
+clean:
+	rm prob*
 # end
