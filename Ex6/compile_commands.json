@@ -1,0 +1,28 @@
+[
+  {
+    "arguments": [
+      "/usr/sbin/gcc",
+      "-c",
+      "-g",
+      "-o",
+      "chat",
+      "main.c"
+    ],
+    "directory": "/home/hainguyen/Linux_devlinux/Ex6",
+    "file": "/home/hainguyen/Linux_devlinux/Ex6/main.c",
+    "output": "/home/hainguyen/Linux_devlinux/Ex6/chat"
+  },
+  {
+    "arguments": [
+      "/usr/sbin/gcc",
+      "-c",
+      "-g",
+      "-o",
+      "chat",
+      "thread_helper.c"
+    ],
+    "directory": "/home/hainguyen/Linux_devlinux/Ex6",
+    "file": "/home/hainguyen/Linux_devlinux/Ex6/thread_helper.c",
+    "output": "/home/hainguyen/Linux_devlinux/Ex6/chat"
+  }
+]
